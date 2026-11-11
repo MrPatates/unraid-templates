@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CommunityApplications>
+  <Profile>Community-maintained Unraid applications by MrPatates.
+
+- **Endfield-Check-in** (Docker): automatically claims the SKPORT daily check-in rewards of Arknights: Endfield, with a web UI. Source and support: https://github.com/MrPatates/endfield-checkin
+- **THERMALRIGHT DIGITAL** (plugin): drives the USB display of Thermalright Peerless Assassin 140 Digital coolers with host CPU metrics and RGB effects. Source and support: https://github.com/MrPatates/thermalright-digital-unraid
+
+Each application is open source and has its own GitHub repository with documentation and an issue tracker; please report problems there. This repository only publishes their Community Applications templates.</Profile>
+  <Icon>https://raw.githubusercontent.com/MrPatates/unraid-templates/main/icon.png</Icon>
+  <WebPage>https://github.com/MrPatates/unraid-templates</WebPage>
+</CommunityApplications>

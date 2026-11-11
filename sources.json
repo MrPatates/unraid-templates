@@ -1,0 +1,14 @@
+[
+  {
+    "repo": "MrPatates/endfield-checkin",
+    "path": "templates/endfield-checkin.xml",
+    "target": "templates/endfield-checkin.xml",
+    "type": "docker"
+  },
+  {
+    "repo": "MrPatates/thermalright-digital-unraid",
+    "path": "plugins/thermalright-digital.xml",
+    "target": "plugins/thermalright-digital.xml",
+    "type": "plugin"
+  }
+]
